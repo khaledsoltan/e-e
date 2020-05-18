@@ -1,0 +1,10 @@
+simple analysis 
+ 
+page - features
+
+--settings
+--dashboard
+--statistcs
+--log
+--user
+--comments
