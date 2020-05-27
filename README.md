@@ -1,1 +1,1 @@
-<h1>Shoping Cart</h1
+<h1>Shopping Cart</h1
